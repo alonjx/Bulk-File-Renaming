@@ -4,7 +4,7 @@ There are a lot of different use cases for renaming a bulk of files,
 from organizing your Machine Learning datasets, simply locate and move specific types of files, etc.
 
 I found many programs/scripts that are doing that, but their code is more difficult as it should be,
-most of the time this is caused by feature fatigue.
+most of the times it's caused by feature fatigue.
 
 So this simple script is here to solve it, easy to follow, and change it for your usages.
 
