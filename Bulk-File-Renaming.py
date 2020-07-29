@@ -71,7 +71,7 @@ def main():
         if args.new_name:
             move_and_rename(path, glob_str, args.dst, args.new_name)
         else:
-            move_only(path, glob_str, args.dst, args.new_name, args.handle_collisions)
+            move_only(path, glob_str, args.dst,  args.handle_collisions)
     elif args.new_name:
         rename_only(path, glob_str, args.new_name)
 
